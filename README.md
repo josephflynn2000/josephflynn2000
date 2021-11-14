@@ -1,11 +1,11 @@
-<h1>👋 Hi, I’m Joseph Flynn </h1>
+<h1>👋 Hello, I’m Joseph Flynn </h1>
 
-<p>I'm from Thornwood, NY and finishing an undergraduate degree in Statistics and Quantitative Modeling at CUNY Baruch. 
+<p>I'm from Westchester County, NY and I will be graduating Fall 2021 with a BBA in Statistics and Quantitative Modeling at CUNY Baruch. 
 </p>
 
 
 <p>
-- 👀 I’m interested in understanding how everything work <br>
+- :writing_hand: I enjoy mathematics and problem solving <br>
 - 🌱 I’m currently learning better methods of data retrival
 </p>
 
