@@ -1,6 +1,6 @@
 <h1>👋 Hello, I’m Joseph Flynn </h1>
 
-<p>I'm from Westchester County, NY and I recently graduated Fall 2021 with a BBA in Statistics and Quantitative Modeling at CUNY Baruch. 
+<p>I'm from Westchester County, NY and I recently graduated with a BBA in Statistics and Quantitative Modeling at CUNY Baruch. 
 </p>
 
 
